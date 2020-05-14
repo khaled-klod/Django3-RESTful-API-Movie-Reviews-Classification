@@ -39,7 +39,9 @@ You can replace ``helloworld`` with your desired project name.
 
 See also, a [ready-made application](https://github.com/heroku/python-getting-started), ready to deploy.
 
-
+## Test the endpoint
+    https://salty-earth-91208.herokuapp.com/model/api/predict/?review=This%20movie%20is%20cool
+    it should show "Positive"
 ## License: MIT
 
 ## Further Reading
